@@ -35,7 +35,7 @@
 
 ## 2. Review the Starter Code
 
-As you can see, a navigation bar and a bit of styling has been added since the previous lesson.
+As you can see, bit of styling has been added since the previous lesson.
 
 There's no more "Home" page - the root route is redirecting to `/movies` (movies index functionality).
 
