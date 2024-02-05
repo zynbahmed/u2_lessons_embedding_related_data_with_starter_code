@@ -31,7 +31,7 @@
 3. `cd` into *u2_lessons_embedding_related_data_with_starter_code* and then *mongoose movies*
 4. `npm i` to install the necessary dependencies for the project to run. 
 5.  `touch` a `.env` file
-6.  Copy over your `DATABASE_URL` from yesterdya's **intro to mongoose** code. 
+6.  Copy over your `DATABASE_URL` from yesterday's **intro to mongoose** code. 
 
 ## 2. Review the Starter Code
 
